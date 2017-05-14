@@ -1,0 +1,22 @@
+DOCS:
+
+Important information about script:
+
+-The script used to execute phase 1 and phase 2 is written in python. The version
+of python is python 3.0 and up. There is no guarantee that this script will work
+on lower versions.
+
+-One of the packages that must be installed before running the script is the the
+python regex package. In order to do this, you can go into the terminal window and
+type "pip install re"
+
+-Before executing the script, make sure to create an text file named input.txt and
+store it in the same directory as the python script file
+
+Important information about output and Phases:
+
+-What is important to note is that phase 1 and 2 are both written on the
+same python file. The results from phase 1 will show up in an outputPhase1.txt
+file which will be in the same directory as the python script file. Likewise
+the results of phase 2 will show up in a ouputPhase2.txt file which will also
+be in the same directory as the python script file
